@@ -26,6 +26,4 @@ Trabalho com desenvolvimento full stack e mobile, com foco em automação e inte
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ktsu0&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
-
 Aberto a oportunidades em desenvolvimento full stack, mobile e automação/IA.
