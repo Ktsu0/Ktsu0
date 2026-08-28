@@ -1,32 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 220" width="260" height="220" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320" role="img">
   <title>Gabriel Wagner — Stats</title>
   <desc>Level, attributes and GitHub statistics HUD.</desc>
-  <rect width="260" height="220" fill="#0b0f14"/>
-  <text x="20" y="18" font-family="monospace" font-size="13" fill="#FFFFFF">Level 9 · XP 2649</text>
+  <rect width="320" height="320" fill="#0b0f14"/>
+  <g><line x1="30" y1="0" x2="30" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="60" y1="0" x2="60" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="90" y1="0" x2="90" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="120" y1="0" x2="120" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="150" y1="0" x2="150" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="180" y1="0" x2="180" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="210" y1="0" x2="210" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="240" y1="0" x2="240" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="270" y1="0" x2="270" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="300" y1="0" x2="300" y2="320" stroke="#22303a" stroke-width="1" opacity="0.25"/><line x1="0" y1="30" x2="320" y2="30" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="60" x2="320" y2="60" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="90" x2="320" y2="90" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="120" x2="320" y2="120" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="150" x2="320" y2="150" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="180" x2="320" y2="180" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="210" x2="320" y2="210" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="240" x2="320" y2="240" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="270" x2="320" y2="270" stroke="#22303a" stroke-width="1" opacity="0.18"/><line x1="0" y1="300" x2="320" y2="300" stroke="#22303a" stroke-width="1" opacity="0.18"/></g>
+  <text x="20" y="26" font-family="monospace" font-size="13" fill="#54e0c7" letter-spacing="1">📊 STATS</text>
+  <circle cx="44" cy="68" r="30" fill="none" stroke="#ffb454" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="44" cy="68" r="24" fill="#0b0f14" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="44" y="65" font-family="monospace" font-size="9" fill="#ffb454" text-anchor="middle">LEVEL</text>
+  <text x="44" y="83" font-family="monospace" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">10</text>
+  <text x="90" y="56" font-family="monospace" font-size="11" fill="#FFFFFF">XP 3252</text>
+  <text x="90" y="72" font-family="monospace" font-size="9" fill="#54e0c7">12/760 to next level (2%)</text>
   <g>
-    <text x="20" y="34" font-family="monospace" font-size="11" fill="#FFFFFF">INTELLIGENCE</text>
-    <rect x="20" y="40" width="200" height="8" fill="#22303a"/>
-    <rect x="20" y="40" width="100" height="8" fill="#54e0c7"/>
+    <text x="20" y="124" font-family="monospace" font-size="10" fill="#FFFFFF">🧠 INTELLIGENCE</text>
+    <rect x="20" y="130" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="37" y="130" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="54" y="130" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="71" y="130" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="88" y="130" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="105" y="130" width="14" height="10" rx="2" fill="#22303a"/><rect x="122" y="130" width="14" height="10" rx="2" fill="#22303a"/><rect x="139" y="130" width="14" height="10" rx="2" fill="#22303a"/><rect x="156" y="130" width="14" height="10" rx="2" fill="#22303a"/><rect x="173" y="130" width="14" height="10" rx="2" fill="#22303a"/>
   </g>
   <g>
-    <text x="20" y="64" font-family="monospace" font-size="11" fill="#FFFFFF">CRAFTING</text>
-    <rect x="20" y="70" width="200" height="8" fill="#22303a"/>
-    <rect x="20" y="70" width="0" height="8" fill="#54e0c7"/>
+    <text x="20" y="154" font-family="monospace" font-size="10" fill="#FFFFFF">🛠️ CRAFTING</text>
+    <rect x="20" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="37" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="54" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="71" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="88" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="105" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="122" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="139" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="156" y="160" width="14" height="10" rx="2" fill="#22303a"/><rect x="173" y="160" width="14" height="10" rx="2" fill="#22303a"/>
   </g>
   <g>
-    <text x="20" y="94" font-family="monospace" font-size="11" fill="#FFFFFF">EXPLORATION</text>
-    <rect x="20" y="100" width="200" height="8" fill="#22303a"/>
-    <rect x="20" y="100" width="200" height="8" fill="#54e0c7"/>
+    <text x="20" y="184" font-family="monospace" font-size="10" fill="#FFFFFF">🧭 EXPLORATION</text>
+    <rect x="20" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="37" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="54" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="71" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="88" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="105" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="122" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="139" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="156" y="190" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="173" y="190" width="14" height="10" rx="2" fill="#54e0c7"/>
   </g>
   <g>
-    <text x="20" y="124" font-family="monospace" font-size="11" fill="#FFFFFF">AUTOMATION</text>
-    <rect x="20" y="130" width="200" height="8" fill="#22303a"/>
-    <rect x="20" y="130" width="40" height="8" fill="#54e0c7"/>
+    <text x="20" y="214" font-family="monospace" font-size="10" fill="#FFFFFF">⚙️ AUTOMATION</text>
+    <rect x="20" y="220" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="37" y="220" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="54" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="71" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="88" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="105" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="122" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="139" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="156" y="220" width="14" height="10" rx="2" fill="#22303a"/><rect x="173" y="220" width="14" height="10" rx="2" fill="#22303a"/>
   </g>
   <g>
-    <text x="20" y="154" font-family="monospace" font-size="11" fill="#FFFFFF">PROBLEM SOLVING</text>
-    <rect x="20" y="160" width="200" height="8" fill="#22303a"/>
-    <rect x="20" y="160" width="54" height="8" fill="#54e0c7"/>
+    <text x="20" y="244" font-family="monospace" font-size="10" fill="#FFFFFF">🐞 PROBLEM SOLVING</text>
+    <rect x="20" y="250" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="37" y="250" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="54" y="250" width="14" height="10" rx="2" fill="#54e0c7"/><rect x="71" y="250" width="14" height="10" rx="2" fill="#22303a"/><rect x="88" y="250" width="14" height="10" rx="2" fill="#22303a"/><rect x="105" y="250" width="14" height="10" rx="2" fill="#22303a"/><rect x="122" y="250" width="14" height="10" rx="2" fill="#22303a"/><rect x="139" y="250" width="14" height="10" rx="2" fill="#22303a"/><rect x="156" y="250" width="14" height="10" rx="2" fill="#22303a"/><rect x="173" y="250" width="14" height="10" rx="2" fill="#22303a"/>
   </g>
-  <text x="20" y="200" font-family="monospace" font-size="10" fill="#54e0c7">Repos 19 · Commits 424 · PRs 15</text>
+  <line x1="20" y1="274" x2="300" y2="274" stroke="#22303a" stroke-width="1"/>
+  <text x="20" y="296" font-family="monospace" font-size="10" fill="#54e0c7">📦 19  💾 427  🔀 15  🚀 0</text>
+  <rect x="1" y="1" width="318" height="318" rx="14" fill="none" stroke="#22303a" stroke-width="1.5"/>
+  <path d="M16 1 L1 1 L1 16" fill="none" stroke="#54e0c7" stroke-width="2"/>
+  <path d="M304 1 L319 1 L319 16" fill="none" stroke="#54e0c7" stroke-width="2"/>
+  <path d="M16 319 L1 319 L1 304" fill="none" stroke="#54e0c7" stroke-width="2"/>
+  <path d="M304 319 L319 319 L319 304" fill="none" stroke="#54e0c7" stroke-width="2"/>
 </svg>
