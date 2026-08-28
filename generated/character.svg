@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img">
+  <title>Gabriel Wagner — Developer RPG</title>
+  <desc>Character portrait placeholder for Gabriel Wagner, Full Stack Developer.</desc>
+  <rect width="400" height="260" fill="#0b0f14"/>
+  <text x="200" y="110" font-size="72" text-anchor="middle" dominant-baseline="middle">🧑‍💻</text>
+  <text x="200" y="180" font-family="monospace" font-size="18" fill="#FFFFFF" text-anchor="middle">Gabriel Wagner</text>
+  <text x="200" y="204" font-family="monospace" font-size="13" fill="#54e0c7" text-anchor="middle">Full Stack Developer · Level 9</text>
+</svg>

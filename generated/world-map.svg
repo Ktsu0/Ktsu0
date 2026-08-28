@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img">
+  <title>Gabriel Wagner — World Map</title>
+  <desc>Map of real GitHub repositories grouped into RPG regions.</desc>
+  <rect width="800" height="500" fill="#0b0f14"/>
+  <g>
+    <text x="400" y="420" font-size="20" text-anchor="middle">🏠</text>
+    <text x="400" y="436" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Antes de Dormir</text>
+  </g>
+  <g>
+    <text x="650" y="120" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="650" y="136" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — ApiTasks</text>
+  </g>
+  <g>
+    <text x="686" y="120" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="686" y="136" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — API_Ecomerce</text>
+  </g>
+  <g>
+    <text x="722" y="120" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="722" y="136" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — API_Nest</text>
+  </g>
+  <g>
+    <text x="758" y="120" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="758" y="136" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — Copa-do-Mundo</text>
+  </g>
+  <g>
+    <text x="600" y="300" font-size="20" text-anchor="middle">🏦</text>
+    <text x="600" y="316" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Financeiro</text>
+  </g>
+  <g>
+    <text x="80" y="420" font-size="20" text-anchor="middle">🌱</text>
+    <text x="80" y="436" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Front End React</text>
+  </g>
+  <g>
+    <text x="650" y="156" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="650" y="172" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — github-developer-rpg</text>
+  </g>
+  <g>
+    <text x="686" y="156" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="686" y="172" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — HarvestProgrammer</text>
+  </g>
+  <g>
+    <text x="722" y="156" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="722" y="172" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — Ktsu0</text>
+  </g>
+  <g>
+    <text x="116" y="420" font-size="20" text-anchor="middle">🌱</text>
+    <text x="116" y="436" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Tela de Login</text>
+  </g>
+  <g>
+    <text x="150" y="300" font-size="20" text-anchor="middle">🤝</text>
+    <text x="150" y="316" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">PlantaGamer</text>
+  </g>
+  <g>
+    <text x="758" y="156" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="758" y="172" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — portifolio</text>
+  </g>
+  <g>
+    <text x="152" y="420" font-size="20" text-anchor="middle">🌱</text>
+    <text x="152" y="436" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Portfólio React</text>
+  </g>
+  <g>
+    <text x="188" y="420" font-size="20" text-anchor="middle">🌱</text>
+    <text x="188" y="436" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Portfólio Wagner</text>
+  </g>
+  <g>
+    <text x="650" y="192" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="650" y="208" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — Prototipo-Saas</text>
+  </g>
+  <g>
+    <text x="200" y="120" font-size="20" text-anchor="middle">🎮</text>
+    <text x="200" y="136" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — RPG---THE-LOST-WORLD</text>
+  </g>
+  <g>
+    <text x="686" y="192" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="686" y="208" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — siteMysticReact</text>
+  </g>
+  <g>
+    <text x="722" y="192" font-size="20" text-anchor="middle">🌫️</text>
+    <text x="722" y="208" font-family="monospace" font-size="9" fill="#54e0c7" text-anchor="middle">Uncharted Land — treinoIA</text>
+  </g>
+  <circle cx="400" cy="396" r="9" fill="none" stroke="#ffb454" stroke-width="2">
+    <animate attributeName="r" values="7;13;7" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="400" y="386" font-size="18" text-anchor="middle">🧑‍💻</text>
+</svg>
