@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- RPG:START:HERO -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/character.svg?v=33222272836" alt="Gabriel Wagner — Full Stack Developer" width="900" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/character.svg?v=33223387535" alt="Gabriel Wagner — Full Stack Developer" width="900" />
 <!-- RPG:END:HERO -->
 
 ### 🎒 Inventory
 
 <!-- RPG:START:INVENTORY -->
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-8A2BE2?style=for-the-badge) ![API](https://img.shields.io/badge/-API-555555?style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Database](https://img.shields.io/badge/-Database-336791?style=for-the-badge) ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 <!-- RPG:END:INVENTORY -->
 
 </div>
@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- RPG:START:WORLDMAP -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/world-map.svg?v=33222272836" alt="World map" width="800" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/world-map.svg?v=33223387535" alt="World map" width="800" />
 <!-- RPG:END:WORLDMAP -->
 
 </div>
@@ -53,7 +53,7 @@
 ### 📊 GitHub Stats
 
 <!-- RPG:START:STATS -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/stats.svg?v=33222272836" alt="Stats" width="320" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/stats.svg?v=33223387535" alt="Stats" width="320" />
 <!-- RPG:END:STATS -->
 
 </div>
@@ -61,9 +61,9 @@
 ## 🎯 Current Quest
 
 <!-- RPG:START:CURRENTQUEST -->
-Objective: Build useful software from ideas.
+Objetivo: Forjar software que sobrevive ao mundo real — não só ao ambiente de testes.
 Status: 40%
-Next: Create something worth remembering.
+Próximo passo: Publicar algo grande o bastante pra virar lenda, não só mais um commit.
 <!-- RPG:END:CURRENTQUEST -->
 
 ---
