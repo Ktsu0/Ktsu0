@@ -103,14 +103,15 @@
   <text x="380" y="386" font-size="18" text-anchor="middle">🧑‍💻</text>
   <line x1="680" y1="40" x2="680" y2="560" stroke="#22303a" stroke-width="1.5"/>
   <text x="700" y="240" font-family="monospace" font-size="11" fill="#54e0c7">🌫️ UNCHARTED LAND</text>
-  <text x="700" y="256" font-family="monospace" font-size="9" fill="#5b6b73">7 repositories not yet on the map</text>
+  <text x="700" y="256" font-family="monospace" font-size="9" fill="#5b6b73">8 repositories not yet on the map</text>
   <text x="700" y="282" font-family="monospace" font-size="9" fill="#FFFFFF">· ApiTasks</text>
   <text x="700" y="304" font-family="monospace" font-size="9" fill="#FFFFFF">· API_Nest</text>
   <text x="700" y="326" font-family="monospace" font-size="9" fill="#FFFFFF">· github-developer-rpg</text>
   <text x="700" y="348" font-family="monospace" font-size="9" fill="#FFFFFF">· Ktsu0</text>
   <text x="700" y="370" font-family="monospace" font-size="9" fill="#FFFFFF">· portifolio</text>
   <text x="700" y="392" font-family="monospace" font-size="9" fill="#FFFFFF">· Prototipo-Saas</text>
-  <text x="700" y="414" font-family="monospace" font-size="9" fill="#FFFFFF">· treinoIA</text>
+  <text x="700" y="414" font-family="monospace" font-size="9" fill="#FFFFFF">· templateImobiliario</text>
+  <text x="700" y="436" font-family="monospace" font-size="9" fill="#FFFFFF">· treinoIA</text>
   
   <rect x="1" y="1" width="898" height="598" rx="14" fill="none" stroke="#22303a" stroke-width="1.5"/>
   <path d="M16 1 L1 1 L1 16" fill="none" stroke="#54e0c7" stroke-width="2"/>
