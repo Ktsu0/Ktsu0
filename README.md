@@ -36,6 +36,7 @@
 - [✓] [**Portfólio React**](https://github.com/Ktsu0/portifolio_react) — Segunda expedição, primeira vez pisando em terras React — testando os limites do que tinha acabado de aprender.
 - [✓] [**Portfólio Wagner**](https://github.com/Ktsu0/portifolio_wagner) — A primeira fortaleza erguida nesta jornada: um portfólio simples que marcou a virada de estudante para desenvolvedor.
 - [✓] [**Site Mystic**](https://github.com/Ktsu0/siteMysticReact) — Site pessoal construído em React, testando um visual mais autoral e místico.
+- - [✓] **templateImobiliário**(https://github.com/Ktsu0/templateImobiliario) — Template para aplicações imobiliárias com React.
 - [✓] [**Termo Infinito**](https://termo-infinito.vercel.app/) — Um mundo de mini-jogos — o projeto mais ambicioso da jornada até aqui. Hoje é privado, mas roda ao vivo.
 <!-- RPG:END:QUESTS -->
 
