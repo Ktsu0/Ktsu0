@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- RPG:START:HERO -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/character.svg?v=34215237128" alt="Gabriel Wagner — Full Stack Developer" width="900" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/character.svg?v=34287119879" alt="Gabriel Wagner — Full Stack Developer" width="900" />
 <!-- RPG:END:HERO -->
 
 ### 🎒 Inventory
@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- RPG:START:WORLDMAP -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/world-map.svg?v=34215237128" alt="World map" width="800" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/world-map.svg?v=34287119879" alt="World map" width="800" />
 <!-- RPG:END:WORLDMAP -->
 
 </div>
@@ -36,7 +36,6 @@
 - [✓] [**Portfólio React**](https://github.com/Ktsu0/portifolio_react) — Segunda expedição, primeira vez pisando em terras React — testando os limites do que tinha acabado de aprender.
 - [✓] [**Portfólio Wagner**](https://github.com/Ktsu0/portifolio_wagner) — A primeira fortaleza erguida nesta jornada: um portfólio simples que marcou a virada de estudante para desenvolvedor.
 - [✓] [**Site Mystic**](https://github.com/Ktsu0/siteMysticReact) — Site pessoal construído em React, testando um visual mais autoral e místico.
-- [✓] [**templateImobiliário**](https://github.com/Ktsu0/templateImobiliario) — Template para aplicações imobiliárias com React.
 - [✓] [**Termo Infinito**](https://termo-infinito.vercel.app/) — Um mundo de mini-jogos — o projeto mais ambicioso da jornada até aqui. Hoje é privado, mas roda ao vivo.
 <!-- RPG:END:QUESTS -->
 
@@ -54,7 +53,7 @@
 ### 📊 GitHub Stats
 
 <!-- RPG:START:STATS -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/stats.svg?v=34215237128" alt="Stats" width="320" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/stats.svg?v=34287119879" alt="Stats" width="320" />
 <!-- RPG:END:STATS -->
 
 </div>
