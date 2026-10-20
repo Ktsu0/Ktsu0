@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- RPG:START:HERO -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/character.svg?v=39247095495" alt="Gabriel Wagner — Full Stack Developer" width="900" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/character.svg?v=39410272024" alt="Gabriel Wagner — Full Stack Developer" width="900" />
 <!-- RPG:END:HERO -->
 
 ### 🎒 Inventory
@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- RPG:START:WORLDMAP -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/world-map.svg?v=39247095495" alt="World map" width="800" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/world-map.svg?v=39410272024" alt="World map" width="800" />
 <!-- RPG:END:WORLDMAP -->
 
 </div>
@@ -53,7 +53,7 @@
 ### 📊 GitHub Stats
 
 <!-- RPG:START:STATS -->
-<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/stats.svg?v=39247095495" alt="Stats" width="320" />
+<img src="https://raw.githubusercontent.com/Ktsu0/Ktsu0/main/generated/stats.svg?v=39410272024" alt="Stats" width="320" />
 <!-- RPG:END:STATS -->
 
 </div>
